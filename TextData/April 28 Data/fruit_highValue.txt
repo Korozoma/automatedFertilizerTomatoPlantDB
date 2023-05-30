@@ -1,0 +1,14 @@
+fruit1.jpg: 417.0, Fruit
+fruit1.jpg: 313.0, Fruit
+fruit1.jpg: 241.0, Fruit
+fruit1.jpg: 417.0, Fruit
+fruit1.jpg: 313.0, Fruit
+fruit1.jpg: 241.0, Fruit
+fruit1.jpg: 417.0, Fruit
+fruit1.jpg: 313.0, Fruit
+fruit1.jpg: 241.0, Fruit
+fruit1.jpg: 417.0, Fruit
+fruit1.jpg: 313.0, Fruit
+fruit1.jpg: 241.0, Fruit
+2023-04-08_08-11-43.jpg: 56.5, Stem
+------

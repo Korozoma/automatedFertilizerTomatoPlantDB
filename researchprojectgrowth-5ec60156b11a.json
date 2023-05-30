@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "researchprojectgrowth",
+  "private_key_id": "5ec60156b11ac60f5ed4004dda1c2e98f92fcf78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQeodY3YI76oC+\nvKazohMU4MHFnhigutcJN5xxBSZ9VPmSZjsbiuAfetFpZyNV5AIDTYWJIp7kd2kL\nsgDofxR+rF5GejvpFh7zZa94QHo1vr7DgL8eUzfPqN4tfqzor6TmSWbvLZhyW0Ip\ns6ZiP6apkxFNAxQjHmzO/+sz/6N0WAWgnEzktZJtNjcVwxDv2zlSm1fodt/AKhYn\nwBama4Zn0jlomAxZjMmiHv0/y01K+1ZTjTyjx3LPLbBmiIThhH1dul/giKcvfNXU\nyhHqvZsq3V9coQ3931SKgCBIboHe4PegvjiIWT56maJ8YrYvcabX8aksuXTxRj/K\nEgnNhzTLAgMBAAECggEASyBEYsUb17yHHXS8+9GFX8ooea6hgFYkBFnKYb3x40s6\nTkPRu/idECsBiKKWjK6H/Smz27mimYDgVUsVYbLdr1Is/OeybCnBCIPVqhdOEs0E\nUE42UNa7L3VSbwGNjKIy4ZuE4N7E5zy0iHOJGzGFvOjW3LIl0Qv3ONbnKotOGy+w\ngzXySuoAEn+6IkriqjswXxOskPIPVOggl4fuyoyo6zI6Bv0TRAf9jkY6jHsB8CrS\n8A0q9CeEGz1S1n7O4GrE+5Ov3svc5t1Dojez6iWPV/Y6atWe5n3axQ8Ba75Nbvic\n6dw8PsXF+GzYHmSGrsLPadwpSQ7feM4WdBxpmQq86QKBgQDnSt9k1YtCYJx/iCG6\npKPg7jBqcw9/bBziYLr9AEK170enTFwbdEPZ9F7JHtLjRNPK46PoMO3zneFSFoOY\nlrLo1+MOlotjGMUoMbu24UItlbONUVTt1MSz/HVzelt3yrod4knkaxcmAjet3o2N\nW2ZGaUUs/MNaspDV3Gw9gVj0UwKBgQDmv8TFUaYEfWcEd6bz3c+VuK5VdIIWkZht\n/ydqbvaat6vR1Ib4zVvHyl7TU485j/3U6USmf2Lg7theufjX5mbg//S131gUkHKR\nkpu7uZeuq6T9a1Jv86IwF5BzP3ktHDi3R2M3eEZoP+Xl53zxmJOydhT/CHx3ySep\nzjlrLZ0uqQKBgCn/UmkAzXSUDlap5VX6pzckiO4LTnkYrHX+knV2Iqbed+hM2Tyy\n888TrFJgonJaAQsKIqz6lXpy5IL/S43db0cQTE5Nz6mCyenufeNLK7UTRbMXXZCB\n3eXApaL+SLWLvhfHCxvKxj1Ekc+kZZeRTRTj8IemreI+IkZy68SPRBO5AoGAOFAw\nu18TvyDDlWmGCxnk4Usy8JQAc3WQ17dfbTAratLMUecmEW48qeOPhM9tssSbU+yh\n3mhUP0TK9UM5oacPEHYmyIP7QPmHnFNFQmkmxXAKUfZxJfU1bbsye43QCtxKUyBO\n7Gij9ikx+AuoiGWOFg2PTjZJ+gnTbjNv++Ij7BECgYBRc/1iuKtL7a9sfFeaAoIz\nDwHBtb2PCXleVt7TqFwaCFJfG9lSvL/FFSnI7qOHLUehzEjHwV9ERqPQQW3Pji9G\nMw8YEZu5jWK0GNYA2TsbFhMC+eFcDqV28khHKtsXPTZJ/xyZalSTShGUCQfTckHR\nJ110Q+2POwz4XLugRW3iWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rver-562@researchprojectgrowth.iam.gserviceaccount.com",
+  "client_id": "106771951791455773260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rver-562%40researchprojectgrowth.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
